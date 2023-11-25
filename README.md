@@ -1,0 +1,1 @@
+https://github.com/aliskyalisky/ohtuvarasto/workflows/CI/badge.svg
